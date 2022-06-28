@@ -1,0 +1,104 @@
+.fh2{
+  text-align: center;
+   
+}
+.fh1{
+   text-align: right;
+}
+.fb1{
+   height: 40px;
+   width:35px;
+   border-radius: 50%;
+}
+.fh3{
+   font-size: 30px;
+}
+
+.picture2 {
+   display: none;
+  
+}
+.div1{
+   
+   background-color: rgb(212, 193, 170);
+}
+.thumbnail:hover .picture1 {
+   display: none;
+}
+.thumbnail:hover .picture2 {
+   display: block;
+}
+.imgsec{
+   width: 100%;
+   height: 300px;
+   position: relative;
+   background-image: url(../images/c3.jpg);
+}
+
+.overly{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background-color: rgba(0, 0, 0, .5);
+}
+.btn1{
+   width: 150px;
+   height:40px;
+}
+
+.div3 i{
+     margin-left:40% ;
+text-align: center;
+font-size: 36px;
+ color: rgb(177, 157, 132);
+}
+.div3 h5{
+   text-align: center;
+}
+.div3 p{
+   text-align: center;
+   color: rgb(155, 139, 121);
+}
+.div4{
+  
+   width: 100%;
+   height: 400px;
+}
+.div4 a{
+text-decoration: none;
+font-size: 16px;
+color: rgb(243, 235, 223);
+}
+.div4 h5{
+   color: rgb(241, 220, 198);
+}
+.fh4{
+   text-align: center;
+   color: rgb(158, 158, 158);
+}
+.div11:hover .fi{
+   
+      color:#6e4b3f;
+      transform: scale(1.3 , 1.3); 
+
+}
+.div41:hover .f4{
+   
+   color:#6e4b3f;
+   transform: scale(1.3 , 1.3); 
+
+}
+.div3:hover  .f3{
+   
+   color:#6e4b3f;
+   transform: scale(1.3 , 1.3); 
+
+}
+.div22:hover .f2{
+   
+   color:#6e4b3f;
+   transform: scale(1.3 , 1.3); 
+
+}
